@@ -1,7 +1,15 @@
+# 忽略输入和输出目录
+input/
+output/
+
+# 忽略操作系统生成的文件
+Thumbs.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
@@ -133,3 +141,5 @@ cython_debug/
 
 # macOS specific files
 .DS_Store
+
+
