@@ -6,7 +6,7 @@
 
 - **requirements.txt**：项目依赖包
 - **main.py**：项目入口脚本
-- **utils/**：功能模块代码
+- **video2dtx/**：功能模块代码
   - **audio_separation.py**：音频分离（例如使用 Demucs）
   - **midi_conversion.py**：鼓音轨转换为 MIDI，再转换为 DTX 格式（待实现）
   - **video_processing.py**：调用 ffmpeg 进行视频处理

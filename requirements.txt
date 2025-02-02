@@ -2,3 +2,7 @@ numpy
 pandas
 demucs
 ffmpeg-python
+pretty_midi 
+mido 
+python-rtmidi 
+midi2audio
